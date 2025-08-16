@@ -8,7 +8,6 @@
     {"domain": ["mail.ru"]},
     {"domain": ["ok.ru"]},
     {"domain": ["m.ok.ru"]},
-    {"domain_keyword": ["whatsapp"]},
     {"domain": ["tamtam.chat"]},
     {"domain": ["cdn.tamtam.chat"]},
     {"domain": ["app.snapchat.com"]},
